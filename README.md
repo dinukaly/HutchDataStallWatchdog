@@ -87,8 +87,6 @@ Open the repository folder in Android Studio, then:
 5. On the phone, enable `Watchdog enabled`.
 6. Confirm the persistent notification is visible.
 
-After the app is installed and the watchdog is enabled, you can unplug the phone. The service runs on the phone itself; Android Studio does not need to stay connected.
-
 ## Command-line build
 
 If your machine has Android SDK and Gradle available:
