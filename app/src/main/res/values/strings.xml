@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hutch Watchdog</string>
+    <string name="watchdog_channel_name">Data stall watchdog</string>
+</resources>
